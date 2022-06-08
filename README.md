@@ -25,3 +25,5 @@ Location for CodeDeploy logs:
 
 Uninstall CodeDeploy Agent:
 ```
+sudo yum erase codedeploy-agent
+```
